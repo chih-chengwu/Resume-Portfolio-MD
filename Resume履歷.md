@@ -6,7 +6,7 @@
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | **姓名**           | 王小明                                                                                                                                          |
 | **手機**           | 0912-345-678                                                                                                                                    |
-| **E‑mail**        | example@王小明.gms.tcu.edu.tw                                                                                                                   |
+| **E‑mail**        | 王小明@gms.tcu.edu.tw                                                                                                                           |
 | **GitHub**         | [https://github.com/chih-chengwu/Resume-Portfolio-MD/blob/main/Readme.md](https://github.com/chih-chengwu/Resume-Portfolio-MD/blob/main/Readme.md) |
 | **LinkedIn**       | [linkedin.com/in/xxx](https://linkedin.com/in/xxx)                                                                                                 |
 | **可開始上班時間** | 202X 年 7 月                                                                                                                                    |
@@ -92,8 +92,7 @@
 
 ## 🎯 參考連結
 
-- GitHub: [github.com/xxx](https://github.com/xxx)
-- 部落格/作品集: [your-site.example.com](https://your-site.example.com)
+- GitHub: [https://github.com/chih-chengwu/Resume-Portfolio-MD/blob/main/Readme.md](https://github.com/chih-chengwu/Resume-Portfolio-MD/blob/main/Readme.md)
 
 ---
 

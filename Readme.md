@@ -31,6 +31,6 @@
 ## 📧 聯絡方式
 
 - 手機：0912-345-678
-- Email：example@王小明.gms.tcu.edu.tw
+- Email：王小明@gms.tcu.edu.tw
 - GitHub：[https://github.com/chih-chengwu/Resume-Portfolio-MD/blob/main/Readme.md](https://github.com/chih-chengwu/Resume-Portfolio-MD/blob/main/Readme.md)
 - LinkedIn：[linkedin.com/in/xxx](https://linkedin.com/in/xxx)
