@@ -1,10 +1,12 @@
-# 王小明– 資訊管理系應屆畢業生 / PHP 後端開發工程師
+# 🎓 王小明 – GitHub Portfolio
+
+## 資訊管理系應屆畢業生 / PHP 後端開發工程師
 
 本存放庫彙整我的**履歷、精修自傳與相關專案作品**，用於求職及呈現個人技術實力。
 
 ---
 
-## 📄 說明
+## 📄 Portfolio 內容
 
 1. **履歷**：詳見 [Resume履歷.md](Resume履歷.md)，重點包括教育背景、技術專長、專題與實習經歷、證照等。
 2. **自傳**：詳見 [Autobiography自傳.md](Autobiography自傳.md)，具體描述我的學習歷程、專案經驗、性格特質與未來規劃。
@@ -28,6 +30,7 @@
 
 ## 📧 聯絡方式
 
-- Email：example@email.com
-- GitHub：[github.com/xxx](https://github.com/xxx)
+- 手機：0912-345-678
+- Email：example@王小明.gms.tcu.edu.tw
+- GitHub：[https://github.com/chih-chengwu/Resume-Portfolio-MD/blob/main/Readme.md](https://github.com/chih-chengwu/Resume-Portfolio-MD/blob/main/Readme.md)
 - LinkedIn：[linkedin.com/in/xxx](https://linkedin.com/in/xxx)

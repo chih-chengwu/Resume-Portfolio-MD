@@ -2,15 +2,14 @@
 
 ## 📇 個人資料
 
-| 項目 | 資訊 |
-|------|------|
-| **姓名** | 王小明 |
-| **手機** | 0912-345-678 |
-| **E‑mail** | example@email.com |
-| **GitHub** | [github.com/xxx](https://github.com/xxx) |
-| **LinkedIn** | [linkedin.com/in/xxx](https://linkedin.com/in/xxx) |
-| **可開始上班時間** | 202X 年 7 月 |
-
+| 項目                     | 資訊                                                                                                                                            |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **姓名**           | 王小明                                                                                                                                          |
+| **手機**           | 0912-345-678                                                                                                                                    |
+| **E‑mail**        | example@王小明.gms.tcu.edu.tw                                                                                                                   |
+| **GitHub**         | [https://github.com/chih-chengwu/Resume-Portfolio-MD/blob/main/Readme.md](https://github.com/chih-chengwu/Resume-Portfolio-MD/blob/main/Readme.md) |
+| **LinkedIn**       | [linkedin.com/in/xxx](https://linkedin.com/in/xxx)                                                                                                 |
+| **可開始上班時間** | 202X 年 7 月                                                                                                                                    |
 
 ---
 
@@ -58,17 +57,16 @@
 
 ## 🛠 技能總覽
 
-| 分類 | 技能 |
-|------|------|
-| **後端語言** | PHP (7.x / 8.x)、Python、JavaScript |
-| **前端技術** | HTML5、CSS3、JavaScript (ES6+)、jQuery、Vue.js (基礎) |
-| **框架 / 工具** | Laravel、Slim、Composer、Bootstrap、Tailwind |
-| **資料庫** | MySQL、PostgreSQL、SQLite |
-| **版本控制** | Git / GitHub |
-| **開發環境** | Linux、Docker、Apache / Nginx |
-| **測試 & CI/CD** | PHPUnit、GitHub Actions、Jenkins |
-| **其他** | RESTful API、MVC 模式、OOP、SQL 優化 |
-
+| 分類                   | 技能                                                  |
+| ---------------------- | ----------------------------------------------------- |
+| **後端語言**     | PHP (7.x / 8.x)、Python、JavaScript                   |
+| **前端技術**     | HTML5、CSS3、JavaScript (ES6+)、jQuery、Vue.js (基礎) |
+| **框架 / 工具**  | Laravel、Slim、Composer、Bootstrap、Tailwind          |
+| **資料庫**       | MySQL、PostgreSQL、SQLite                             |
+| **版本控制**     | Git / GitHub                                          |
+| **開發環境**     | Linux、Docker、Apache / Nginx                         |
+| **測試 & CI/CD** | PHPUnit、GitHub Actions、Jenkins                      |
+| **其他**         | RESTful API、MVC 模式、OOP、SQL 優化                  |
 
 ---
 
