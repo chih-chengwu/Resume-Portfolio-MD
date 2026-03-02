@@ -19,7 +19,7 @@
 - **網頁技術**：HTML5、CSS3、JavaScript、Tailwind CSS。
 - **開發流程**：MVC、RESTful API、Git 版本控制、單元測試 (PHPUnit)、LAMP 環境。
 
-## 🚀 專案回顧
+## 🚀 專案經驗
 
 - **[E-commerce 線上購物平台](Projects/01-E-commerce/Readme.md)**（大四專題）：使用 Laravel 10 建構完整購物系統，包括商品管理、購物車、訂單流程與第三方支付；專題簡報獲系上競賽優等評價。
 - **[部落格系統](Projects/02-Blog-System/Readme.md)**：純 PHP + MVC 架構，功能含文章 CRUD、留言板與 SEO；已部署並累積 500+ 次閱讀。
