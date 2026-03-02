@@ -12,7 +12,7 @@
 2. **自傳**：詳見 [Autobiography自傳.md](Autobiography自傳.md)，具體描述我的學習歷程、專案經驗、性格特質與未來規劃。
 3. **作品**：目錄下可放置／連結到具體實作，例如部落格系統、訂餐平台、GitHub 專案等。
 
-## 🛠 技術亮點
+## 🛠 熟悉技術
 
 - **後端語言**：PHP (7.x/8.x)、Laravel、CodeIgniter。
 - **資料庫**：MySQL、PostgreSQL，熟悉正規化與效能優化。
@@ -32,5 +32,5 @@
 
 - 手機：0912-345-678
 - Email：王小明@gms.tcu.edu.tw
-- GitHub：[https://github.com/chih-chengwu/Resume-Portfolio-MD/blob/main/Readme.md](https://github.com/chih-chengwu/Resume-Portfolio-MD/blob/main/Readme.md)
+- GitHub：[https://github.com/chih-chengwu/Resume-Portfolio-MD](https://github.com/chih-chengwu/Resume-Portfolio-MD)
 - LinkedIn：[linkedin.com/in/xxx](https://linkedin.com/in/xxx)
